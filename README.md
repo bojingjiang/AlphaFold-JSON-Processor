@@ -59,7 +59,7 @@ For each JSON file, the following outputs are generated:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Developer
-This software was developed by Bojing Jiang at WashU Berkland Lab on 2024-12-10.
+This software was developed by B.J. at WashU Berkland Lab on 2024-12-10.
 
 ```plaintext
 MIT License
